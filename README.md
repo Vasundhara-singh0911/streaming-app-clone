@@ -26,13 +26,13 @@ A responsive and visually rich **streaming app clone** built with HTML, CSS, and
 
 ---
 
-⚠️ Disclaimer
+⚠️ Disclaimer : 
 This project is for educational and learning purposes only. It is not affiliated with or endorsed by Netflix or any streaming platform. No copyrighted content is used.
 
-📄 License
+📄 License :
 This project is open-source and available under the MIT License.
 
-👩‍💻 Author
+👩‍💻 Author :
 Vasundhara Singh
 [GitHub Profile](https://github.com/Vasundhara-singh0911)
 
